@@ -26,7 +26,7 @@ jobs:
           paths:
             - ./dist
       - run:
-          name: Deploy to Ne
+          name: Deploy
           command: cp -r ./dist .
 workflows:
   version: 2
