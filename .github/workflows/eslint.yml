@@ -34,7 +34,7 @@ jobs:
       - name: Run ESLint
         run: npx eslint .
           --config .eslintrc.json
-          --ext .js,.jsx,.ts,.tsx
+          --ext .jsx,.ts,.tsx
         continue-on-error: false
 
       - name: Upload analysis results to GitHub
