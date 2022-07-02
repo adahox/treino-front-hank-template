@@ -1,4 +1,4 @@
-
+import React from "react";
 import { ContactLabel } from "./ContactLabel";
 import FacebookIcon from "./icons/FacebookIcon";
 import InstagramIcon from "./icons/InstagramIcon";
