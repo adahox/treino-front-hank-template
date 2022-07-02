@@ -1,3 +1,4 @@
+import React from "react";
 import { GamesCard } from "./GamesCard";
 import GearIcon from "./icons/Gear";
 import PersonIcon from "./icons/Person";

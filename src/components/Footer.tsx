@@ -1,3 +1,4 @@
+import React from "react";
 export function Footer() {
     return (
         <section className="flex w-full flex-row h-full max-h-[336px] bg-white  pb-[42px] px-[53px]">
