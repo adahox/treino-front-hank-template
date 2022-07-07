@@ -10,8 +10,8 @@ export function Home() {
         <main className='lg:mx-auto flex lg:flex-1 flex-col w-full h-screen bg-primary-100 lg:max-w-[1440px] pt-14'>
             {/* <StartPage /> */}
              {/* <GamesTechnology /> */}
-            <Contact />
-            {/* <Footer />  */}
+            {/* <Contact /> */}
+            <Footer /> 
         </main>
     );
 }
