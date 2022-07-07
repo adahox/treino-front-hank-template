@@ -7,11 +7,11 @@ import SettingsIcon from "./icons/Settings";
 
 export function GamesTechnology() {
     return (
-        <section className='w-full flex-1 h-full max-h-[1040px] py-48 bg-white px-[7.5rem]'>
-            <h2 className='font-bold text-5xl'>
+        <section className='py-2 px-2  w-full lg:flex-1 lg:max-h-[1040px] lg:py-48 bg-white lg:px-[7.5rem]'>
+            <h2 className='text-center text-2xl font-bold lg:text-left md:text-5xl'>
                 Advanced technology for gamers
             </h2>
-            <div className="flex flex-row gap-6 mt-[151px]">
+            <div className="flex flex-col md:flex-row gap-6 mt-[151px]">
                 <GamesCard
                     title="Friends"
                     message="We offer an amazing community of gamers that is constantly growing in numbers. You can find people with your simillar interests in various video game genres and play together, chat and exchange ideas."
