@@ -9,7 +9,7 @@ export function StartPage() {
     return (
         <>
             <Nav />
-            <section className='grid grid-cols-2 max-h-[985px] h-full items-center'>
+            {/* <section className='grid grid-cols-2 max-h-[985px] h-full items-center'>
                 <div className="flex-row justify-center">
                     <h1 className='font-bold text-x-large text-primary-700'>
                         We create gaming breakthroughs.
@@ -25,7 +25,7 @@ export function StartPage() {
                 <div className='h-full w-full ml-6'>
                     <img alt="soldado" src={getImageUrl()} />
                 </div>
-            </section>
+            </section> */}
         </>
     );
 }

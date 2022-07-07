@@ -9,9 +9,9 @@ export function Home() {
     return (
         <main className='mx-auto flex flex-1 flex-col w-full h-screen bg-primary-100 max-w-[1440px] pt-14'>
             <StartPage />
-            <GamesTechnology />
+            {/* <GamesTechnology />
             <Contact />
-            <Footer />
+            <Footer /> */}
         </main>
     );
 }
