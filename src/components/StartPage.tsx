@@ -23,7 +23,7 @@ export function StartPage() {
                     </div>
                 </div>
                 <div className='hidden sm:h-full md:block w-full sm:ml-6'>
-                    <img width="auto" height="auto" alt="soldado" src={getImageUrl()} />
+                    <img width="100%" height="100%" alt="soldado" src={getImageUrl()} />
                 </div>
             </section>
         </>
