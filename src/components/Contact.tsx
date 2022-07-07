@@ -20,7 +20,7 @@ export function Contact() {
                     <h5 className="text-center sm:text-left text-x-medium">
                         Send a message
                     </h5>
-                    <form action="#" className="drop-shadow-xl rounded-lg mt-9 bg-primary-900 flex lg:max-h-[610px] w-full lg:max-w-[648px] px-[70px] pt-[67px] pb-[70px] flex-col">
+                    <form action="#" className="drop-shadow-xl rounded-lg mt-9 bg-primary-900 flex lg:max-h-[610px] w-full lg:max-w-[648px] px-5 md:px-[70px] pt-[67px] pb-5 md:pb-[70px] flex-col">
                         <label htmlFor="email" className="mb-1 text-primary-100 font-semibold">
                             Enter your email
                         </label>
@@ -37,7 +37,7 @@ export function Contact() {
                     </form>
                 </div>
                 <div>
-                    <h5 className="text-x-medium">
+                    <h5 className="text-center sm:text-left text-x-medium">
                         Contact Info
                     </h5>
                     <div className="drop-shadow-xl mt-9 rounded-t-lg bg-primary-900">

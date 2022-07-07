@@ -9,7 +9,7 @@ export function StartPage() {
     return (
         <>
             <Nav />
-            <section className='px-5 grid md:grid-cols-2 max-h-[985px] h-full lg:items-center items-start'>
+            <section className='px-5 pb-6 lg:pb-0 grid md:grid-cols-2 max-h-[985px] h-full lg:items-center items-start'>
                 <div className="flex-row justify-center pt-28 lg:pt-0  h-full lg:h-auto  lg:items-center">
                     <h1 className='text-center md:text-left font-bold text-x-large text-primary-700'>
                         We create gaming breakthroughs.

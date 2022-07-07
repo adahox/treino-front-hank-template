@@ -1,9 +1,9 @@
 import React from "react";
 export function Footer() {
     return (
-        <section className="flex w-full flex-col md:flex-row lg:h-full lg:max-h-[336px] bg-white  pb-[42px] lg:px-[53px]">
+        <section className="mt-10 md:mt-0 flex w-full flex-col md:flex-row lg:h-full lg:max-h-[336px] bg-white  pb-[42px] lg:px-[53px]">
             <div className="flex flex-col justify-center">
-                <h6 className="py-30 text-x-large text-primary-900 font-bold opacity-5">
+                <h6 className="text-center md:text-left py-30 text-x-large text-primary-900 font-bold opacity-5">
                     Hawk Industries
                 </h6>
                 <div className="p-10 md:p-0 flex text-center md:text-left flex-col md:flex-row justify-around -mt-9">

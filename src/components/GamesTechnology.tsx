@@ -11,7 +11,7 @@ export function GamesTechnology() {
             <h2 className='text-center text-2xl font-bold lg:text-left md:text-5xl'>
                 Advanced technology for gamers
             </h2>
-            <div className="flex flex-col md:flex-row gap-6 mt-[151px]">
+            <div className="flex flex-col md:flex-row gap-6 mt-20 lg:mt-[151px]">
                 <GamesCard
                     title="Friends"
                     message="We offer an amazing community of gamers that is constantly growing in numbers. You can find people with your simillar interests in various video game genres and play together, chat and exchange ideas."
