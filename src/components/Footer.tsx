@@ -12,17 +12,17 @@ export function Footer() {
                             About
                         </strong>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Who We Are
                             </a>
                         </span>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Our Team
                             </a>
                         </span>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Careers
                             </a>
                         </span>
@@ -32,18 +32,18 @@ export function Footer() {
                             About
                         </strong>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Latest
                             </a>
 
                         </span>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Trending
                             </a>
                         </span>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Most Popular
                             </a>
                         </span>
@@ -53,17 +53,17 @@ export function Footer() {
                             Legal
                         </strong>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Terms of Use
                             </a>
                         </span>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Terms & Conditions
                             </a>
                         </span>
                         <span className="text-sm font-light">
-                            <a href="">
+                            <a href="https://hawk.olharacessivel.com.br">
                                 Privacy Policy
                             </a>
                         </span>

@@ -2,7 +2,7 @@ import React from "react";
 import { Nav } from './Nav';
 
 function getImageUrl() {
-    return new URL(`../assets/soldado.png`, import.meta.url).href
+    return new URL(`../assets/soldado.webp`, import.meta.url).href
   }
 
 export function StartPage() {
