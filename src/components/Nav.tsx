@@ -10,7 +10,7 @@ export function Nav() {
         'Contact Us'
     ];
 
-    function showResponsiveMenu(isChecked: Boolean) {
+    function showResponsiveMenu(isChecked: boolean) {
         if (isChecked) {
             document.getElementById('list-menu')?.classList.remove('hidden');
             document.getElementById('list-menu')?.classList.add('absolute', 'left-0', 'bg-primary-200', 'pr-5', 'w-full', 'py-2');
